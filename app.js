@@ -1,3 +1,5 @@
+import React from "react";
+import ReactDOM from "react-dom/client";
 // for nested html elements
 /**
  * <div id="parent">
